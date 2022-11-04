@@ -1,1 +1,0 @@
-# jgmartinezpadilla.github.io
