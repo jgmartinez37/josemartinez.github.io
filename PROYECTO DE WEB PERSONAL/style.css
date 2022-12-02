@@ -14,17 +14,21 @@ header {
    
 }
 div.logo {
-    border: 1px black solid;
+    border: px black solid;
     position: absolute;
     top: 2%;
-    width: 15%;
+    width: 12%;
     height: 12%;
 }
 img.logo {
-    position:absolute;
-    height: 80%;
-    width: 80%;
-    padding: 7px;
+    border: px black solid;
+    width: 70%;
+    height: 97%;
+    margin: px;
+    border-radius: 5px;
+
+    
+
 }
 nav.nav-head {
     background-color: rgba(0, 0, 0, 0.644);
@@ -38,10 +42,8 @@ div.nav-head-letras{
     display:inline;
     color: white;
     padding-left: 12%;
-    padding-right: ;
-
-    
 }
+
 h1 {
     text-align: center;
     color: black;
