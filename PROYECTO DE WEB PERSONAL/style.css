@@ -3,37 +3,92 @@ body {
     
 }
 div.container {
-    border: px black solid;
-    width: 100%;
+    border: 2px black solid;
+    width: 98%;
+    height: 100%;
+    
+}
+header {
+    border:1px black solid ;
+    width: 98;
+   
+}
+div.logo {
+    border: 1px black solid;
+    position: absolute;
+    top: 2%;
+    width: 15%;
+    height: 12%;
+}
+img.logo {
+    position:absolute;
+    height: 80%;
+    width: 80%;
+    padding: 7px;
+}
+nav.nav-head {
+    background-color: rgba(0, 0, 0, 0.644);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+
+}
+
+div.nav-head-letras{
+    display:inline;
+    color: white;
+    padding-left: 12%;
+    padding-right: ;
+
     
 }
 h1 {
     text-align: center;
     color: black;
 }
-nav{
-    background-color: rgba(0, 0, 0, 0.671);
-    padding: 10px;
-    border-radius: 8px;
-}
-nav .menu-item {
-    display: inline;
-    padding-left:92px;
-    color: white;
-    
-    
-}
 
+
+nav.main{
+    border: 1px black solid;
+    position: absolute;
+    height: 73%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 3px;
+    border-radius: 10px;
+    top:20% ;
+    width:15% ;
+
+}
+nav .main-texto {
+    padding-left:22px;
+    padding-right: 20px;
+    padding-top: 80px;
+    color: white;
+
+    
+    
+}
+main {
+    border: 1px black solid;
+    position: absolute;
+    height: 74%;
+    left: 17%;
+    width: 82%;
+
+    
+}
 
 footer {
+    border: 1px black solid;
     position:absolute;
-    top:91%;
-    background-color:rgb(131, 143, 156);
-    margin: 5px;
-    height: 30px;
+    top:93.5%;
+    background-color:rgba(78, 90, 102, 0.603);
+    margin: 6px;
+    height: 17px;
     text-align: center;
-    padding: 10px;
-    width: 96%;
+    padding: 7px;
+    width: 95%;
     border-radius: 8px;
+    color: white;
     
 }
