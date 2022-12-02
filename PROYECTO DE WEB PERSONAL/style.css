@@ -79,7 +79,7 @@ nav .main-texto {
     
 }
 main {
-    border: px black solid;
+    border: 1px black solid;
     position: absolute;
     height: 114%;
     left: 17%;
@@ -88,7 +88,17 @@ main {
 
     
 }
-
+div.quees {
+    border: 1px black solid;
+    height: 20%;
+    margin:2px ;
+    color: black;
+}
+div.genero {
+    border: 1px black solid;
+    height: 78%;
+    margin: 2px;
+}
 footer {
     border: px black solid;
     position:absolute;
