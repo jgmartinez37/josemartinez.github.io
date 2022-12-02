@@ -17,16 +17,18 @@ header {
 div.logo {
     border: px black solid;
     position: absolute;
-    top: 2%;
+    top: 0%;
     width: 17%;
     height: 19%;
 }
 img.logo {
     border: px black solid;
     position:absolute;
-    height: 75%;
-    width: 75%;
-    padding: 7px;
+    height: 110%;
+    width: 80%;
+    padding: 2px;
+    border-radius: 18px;
+    top: -10px; 
 }
 nav.nav-head {
     position: absolute;
@@ -43,7 +45,7 @@ nav.nav-head {
 
 div.nav-head-letras{
     display:inline;
-    color: white;
+    color: rgb(226, 21, 21);
     padding-left: 12%;
 
     
@@ -51,7 +53,8 @@ div.nav-head-letras{
 
 h1 {
     text-align: center;
-    color: black;
+    color: rgb(219, 24, 24);
+    
 }
 
 
@@ -70,7 +73,7 @@ nav .main-texto {
     padding-left:22px;
     padding-right: 20px;
     padding-top: 120px;
-    color: white;
+    color: rgb(230, 230, 230);
 
     
     
