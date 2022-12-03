@@ -9,9 +9,9 @@ div.container {
     
 }
 header {
-    border:px black solid ;
+    border:1px black solid ;
     width: 98;
-    height:17%;
+    height:13%;
    
 }
 div.logo {
@@ -38,16 +38,19 @@ nav.nav-head {
     padding-bottom: 5px;
     border-radius: 8px;
     height: 5%;
-    width: 98%;
-    
-
+    width: 81%;
+    left: 17%;  
 }
+
 
 div.nav-head-letras{
     display:inline;
     color: rgb(226, 21, 21);
-    padding-left: 12%;
-
+    padding:50px;
+    text-decoration: underline;
+    
+    
+    
     
 }
 
@@ -116,7 +119,7 @@ div.obras {
 footer {
     border: px black solid;
     position:absolute;
-    top: 195%;
+    top: 194%;
     background-color:rgba(78, 90, 102, 0.603);
     margin: 6px;
     height: 70px;
