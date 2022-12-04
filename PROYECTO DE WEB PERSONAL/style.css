@@ -7,11 +7,13 @@ div.container {
     width: 98%;
     height: 210%;
     
+    
 }
 header {
-    border:px black solid ;
+    border:1px black solid ;
     width: 98;
-    height:20%;
+    height:17%;
+    position:relative
    
 }
 div.logo {
