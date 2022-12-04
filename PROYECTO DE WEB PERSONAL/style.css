@@ -10,17 +10,17 @@ div.container {
     
 }
 header {
-    border:1px black solid ;
+    border:px black solid ;
     width: 98;
-    height:17%;
-    position:relative
+    height: 13%;
+    
    
 }
 div.logo {
     border: px black solid;
-    position: absolute;
-    top: 0%;
+    position:absolute;
     width: 17%;
+    top:0;
     height: 19%;
 }
 img.logo {
@@ -54,10 +54,12 @@ div.nav-head-letras{
 }
 div.menu-head {
     border: px black solid;
+    position:absolute;
+    top:11%;
     width: 15%;
-    margin-top: 5.4%;
-    height: 14%;
-    margin-left: 4px;
+    margin-top: 5%;
+    height: 6%;
+    margin-left: 1px;
     background-color: rgb(0, 132, 255);
     border-radius: 10px;
     padding: 1px;
