@@ -74,7 +74,7 @@ nav.main{
     border: px black solid;
     position: absolute;
     height: 98%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 0, 0);
     padding: 3px;
     border-radius: 10px;
     top:1% ;
@@ -87,7 +87,7 @@ nav.main{
 div.main-texto {
     
     padding-top: 115%;
-    color: rgb(252, 252, 252);
+    color: rgb(253, 0, 0);
     text-align: center;
     
     
@@ -109,6 +109,7 @@ div.quees {
     border: 1px black solid;
     height: 20%;
     margin:2px ;
+    border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.986);
     color: rgb(235, 232, 232);
     width: 84%;
