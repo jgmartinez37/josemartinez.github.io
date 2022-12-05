@@ -105,7 +105,7 @@ main {
     
 }
 div.quees {
-    
+
     border: 1px black solid;
     height: 20%;
     margin:2px ;
@@ -114,7 +114,8 @@ div.quees {
     color: rgb(235, 232, 232);
     width: 84%;
     margin-left: 15%;
-    box-shadow: 2px 4px 10px 0 rgba(255, 255, 255, 0.925)
+    box-shadow: 2px 4px 10px 0 rgba(255, 255, 255, 0.925);
+    text-align: center;
 }
 div.titulo-quees{
     color: red;
