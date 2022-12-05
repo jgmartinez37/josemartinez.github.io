@@ -1,6 +1,6 @@
 body {
     background-size:cover;
-    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 div.container {
     border: px black solid;
@@ -42,6 +42,7 @@ nav.nav-alone {
     height: 5%;
     width: 83%;
     left: 16%;  
+    box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
     border: 1px rgb(178, 18, 184) solid;
 }
 
@@ -50,26 +51,21 @@ div.nav-al-letras{
     display:inline;
     color: rgb(226, 21, 21);
     padding:10px;
-    text-decoration: underline;
-    padding-left: 12%;
+    text-decoration:underline;
+    padding-left: 8%;
     
+} 
+div.nav-al-letras:hover{
+    color: aqua;
 }
-div.menu-alone {
-    border:1px black solid;
-    float: left;
-    width: 12%;
-    border-radius: 5px;
-    margin-top: 1.5%;
-    height: 3%;
-    background-color: cyan;
-}  
-div.menu-letra {
-    margin-top: 10px;
-}
-
 h1 {
     text-align: center;
-    color: rgb(219, 24, 24);
+    color: rgb(221, 28, 28);
+    border: 1px black solid;
+    background-color: rgba(0, 0, 0, 0.904);
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    width: 60%;
+    margin-left: 20%;
     
 }
 
@@ -85,6 +81,7 @@ nav.main{
     width:12% ;
     margin-left: 1%;
     float: left;
+    box-shadow: 2px 4px 10px 0 rgba(255, 0, 0, 0.37);
 
 }
 div.main-texto {
@@ -94,7 +91,9 @@ div.main-texto {
     text-align: center;
     
     
+    
 }
+
 main {
     border: 1px rgb(221, 12, 12) solid;
     position: absolute;
@@ -106,16 +105,20 @@ main {
     
 }
 div.quees {
+    
     border: 1px black solid;
     height: 20%;
     margin:2px ;
-    background-color: rgba(120, 157, 179, 0.349);
-    color: rgb(8, 8, 8);
+    background-color: rgba(0, 0, 0, 0.986);
+    color: rgb(235, 232, 232);
     width: 84%;
     margin-left: 15%;
+    box-shadow: 2px 4px 10px 0 rgba(255, 255, 255, 0.925)
 }
 div.titulo-quees{
     color: red;
+    font-weight:bold;
+    text-decoration: dashed;
 }
 div.accion {
     border: 1px black solid;
@@ -138,6 +141,9 @@ div.obras {
     width: 84%;
     margin-left:15%;
 }
+a:hover{
+    color: aqua;
+}
 footer {
     border: 1px rgb(21, 194, 35) solid;
     position:absolute;
@@ -153,3 +159,4 @@ footer {
     left: 6px;
     
 }
+
