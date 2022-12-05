@@ -65,7 +65,7 @@ h1 {
     background-color: rgba(0, 0, 0, 0.904);
     clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
     width: 60%;
-    margin-left: 20%;
+    margin-left: 25%;
     
 }
 
@@ -136,6 +136,11 @@ div.titulo-accion {
     font-weight:bold;
     text-decoration: dashed;
 }
+img.avengers{
+    margin:25px;
+    width:120px;
+    height: 160px;
+}
 div.romanticas {
     border: 1px black solid;
     height: 26%;
@@ -157,7 +162,14 @@ div.obras {
     margin: 2px;
     width: 84%;
     margin-left:15%;
-    
+    background-color: rgba(0, 0, 0, 0.993);
+    border-radius: 10px;
+}
+div.titulo-top5 {
+    color: red;
+    font-weight:bold;
+    text-decoration: dashed;
+
 }
 a:hover{
     color: aqua;
@@ -166,7 +178,7 @@ footer {
     border: 1px rgb(21, 194, 35) solid;
     position:absolute;
     top: 194%;
-    background-color:rgba(78, 90, 102, 0.603);
+    background-color:rgba(2, 2, 2, 0.986);
     margin: 6px;
     height: 70px;
     text-align: center;
