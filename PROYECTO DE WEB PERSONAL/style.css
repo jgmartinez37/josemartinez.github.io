@@ -92,6 +92,7 @@ div.main-texto {
     
     
     
+    
 }
 
 main {
@@ -142,7 +143,7 @@ img.avengers{
     margin:15px;
     width:150px;
     height: 200px;
-    margin-left: 7%;
+    margin-left: 6%;
     display: inline-block;
 }
 img.avengers1{
@@ -150,7 +151,7 @@ img.avengers1{
     margin:15px;
     width:150px;
     height: 200px;
-    margin-left: 27%;
+    margin-left: 26%;
     display: inline-block;
 }
 
@@ -159,7 +160,7 @@ img.avengers2{
     margin:15px;
     width:150px;
     height: 200px;
-    margin-left: 47%;
+    margin-left: 46%;
     display: inline-block;
 }
 
@@ -168,7 +169,7 @@ img.avengers3{
     margin:15px;
     width:150px;
     height: 200px;
-    margin-left: 67%;
+    margin-left: 66%;
     display: inline-block;
     
 }
