@@ -56,13 +56,12 @@ div.nav-al-letras{
 }
 div.menu-alone {
     border:1px black solid;
+    float: left;
     width: 12%;
     border-radius: 5px;
-    background-color: aqua;
-    margin-top: 1.2%;
+    margin-top: 1.5%;
     height: 3%;
-    margin-left: 1%;
-   
+    background-color: cyan;
 }  
 div.menu-letra {
     margin-top: 10px;
