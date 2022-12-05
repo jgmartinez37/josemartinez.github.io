@@ -70,7 +70,7 @@ h1 {
 }
 
 
-nav.main{
+nav{
     border: px black solid;
     position: absolute;
     height: 98%;
@@ -84,15 +84,11 @@ nav.main{
     box-shadow: 2px 4px 10px 0 rgba(255, 0, 0, 0.37);
 
 }
-div.main-texto {
-    
-    padding-top: 115%;
+div.nav-texto {
+    margin-top: 110%;
     color: rgb(253, 0, 0);
     text-align: center;
-    
-    
-    
-    
+      
 }
 
 main {
