@@ -3,14 +3,14 @@ body {
     
 }
 div.container {
-    border: px black solid;
+    border: 1px black solid;
     width: 98%;
     height: 210%;
     
     
 }
 header {
-    border:px black solid ;
+    border:1px black solid ;
     width: 98;
     height: 13%;
     
@@ -35,7 +35,7 @@ img.logo {
 nav.nav-head {
     position: absolute;
     top: 22%;
-    background-color: rgba(0, 0, 0, 0.644);
+    background-color: rgba(0, 0, 0, 0.986);
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 8px;
@@ -48,8 +48,9 @@ nav.nav-head {
 div.nav-head-letras{
     display:inline;
     color: rgb(226, 21, 21);
-    padding:50px;
+    padding:10px;
     text-decoration: underline;
+    padding-left: 12%;
     
 }
 div.menu-head {
@@ -78,18 +79,19 @@ h1 {
 
 
 nav.main{
-    border: px black solid;
+    border: 1px black solid;
     position: absolute;
-    height: 163%;
+    height: 98%;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 3px;
     border-radius: 10px;
-    top:30% ;
-    width:15% ;
+    top:1% ;
+    width:12% ;
+    margin-left: 1%;
 
 }
 nav .main-texto {
-    padding-left:22px;
+    padding-left:2px;
     padding-right: 20px;
     padding-top: 170px;
     color: rgb(230, 230, 230);
@@ -101,8 +103,8 @@ main {
     border: 1px black solid;
     position: absolute;
     height: 164%;
-    left: 17%;
-    width: 82%;
+    left: ;
+    width: 98%;
     top: 30%;
 
     
@@ -113,6 +115,8 @@ div.quees {
     margin:2px ;
     background-color: rgba(120, 157, 179, 0.349);
     color: rgb(8, 8, 8);
+    width: 84%;
+    margin-left: 15%;
 }
 div.titulo-quees{
     color: red;
@@ -121,16 +125,22 @@ div.accion {
     border: 1px black solid;
     height: 26%;
     margin: 2px;
+    width: 84%;
+    margin-left: 15%;
 }
 div.romanticas {
     border: 1px black solid;
     height: 26%;
     margin: 2px;
+    width: 84%;
+    margin-left:15%;
 }
 div.obras {
     border: 1px black solid;
     height: 26%;
     margin: 2px;
+    width: 84%;
+    margin-left:15%;
 }
 footer {
     border: px black solid;
