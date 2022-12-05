@@ -12,7 +12,7 @@ div.container {
 header {
     border:1px rgb(11, 45, 235) solid ;
     width: 98;
-    height: 13%;
+    height: 9%;
     
    
 }
@@ -32,7 +32,7 @@ img.logo {
     border-radius: 18px;
     top: -10px; 
 }
-nav.nav-head {
+nav.nav-alone {
     position: absolute;
     top: 22%;
     background-color: rgba(0, 0, 0, 0.986);
@@ -42,10 +42,11 @@ nav.nav-head {
     height: 5%;
     width: 81%;
     left: 17%;  
+    border: 1px rgb(178, 18, 184) solid;
 }
 
 
-div.nav-head-letras{
+div.nav-al-letras{
     display:inline;
     color: rgb(226, 21, 21);
     padding:10px;
@@ -53,10 +54,10 @@ div.nav-head-letras{
     padding-left: 12%;
     
 }
-div.menu-head {
+div.menu-alone {
     border:px black solid;
     position:absolute;
-    top:11%;
+    top:11.5%;
     width: 15%;
     margin-top: 5%;
     height: 6%;
