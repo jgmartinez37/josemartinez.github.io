@@ -57,7 +57,7 @@ div.nav-al-letras{
 div.menu-alone {
     border:px black solid;
     position:absolute;
-    top:11.6%;
+    top:11.5%;
     width: 14%;
     margin-top: 5%;
     height: 6%;
@@ -154,6 +154,6 @@ footer {
     width: 98%;
     border-radius: 8px;
     color: white;
-    left: 8px;
+    left: 6px;
     
 }
