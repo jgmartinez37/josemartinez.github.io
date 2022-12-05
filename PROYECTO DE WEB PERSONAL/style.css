@@ -3,16 +3,16 @@ body {
     
 }
 div.container {
-    border: px black solid;
+    border: 1px black solid;
     width: 100%;
     height: 210%;
     
     
 }
 header {
-    border:px rgb(11, 45, 235) solid ;
+    border:1px rgb(11, 45, 235) solid ;
     width:100%;
-    height: 10%;
+    height: 9%;
     
    
 }
@@ -56,17 +56,17 @@ div.nav-al-letras{
 }
 div.menu-alone {
     border:px black solid;
-    position:absolute;
-    top:11.5%;
-    width: 14%;
-    margin-top: 5%;
-    height: 6%;
-    margin-left: 1px;
+    position:relative;
+    top:9px;
+    width: 12%;
+    margin-top: 0%;
+    height: 3%;
+    margin-left: px;
     background-color: rgb(0, 132, 255);
     border-radius: 10px;
     padding: 1px;
     color: rgb(253, 252, 252);
-    left: 1%;
+    left: 1.5%;
 }  
 div.menu-letra {
     margin-top: 10px;
@@ -89,6 +89,7 @@ nav.main{
     top:1% ;
     width:12% ;
     margin-left: 1%;
+    float: left;
 
 }
 div.main-texto {
@@ -100,7 +101,7 @@ div.main-texto {
     
 }
 main {
-    border: px rgb(221, 12, 12) solid;
+    border: 1px rgb(221, 12, 12) solid;
     position: absolute;
     height: 164%;
     left: 1%;
@@ -143,7 +144,7 @@ div.obras {
     margin-left:15%;
 }
 footer {
-    border: px rgb(21, 194, 35) solid;
+    border: 1px rgb(21, 194, 35) solid;
     position:absolute;
     top: 194%;
     background-color:rgba(78, 90, 102, 0.603);
