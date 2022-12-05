@@ -3,14 +3,14 @@ body {
     
 }
 div.container {
-    border: 1px black solid;
+    border: px black solid;
     width: 100%;
     height: 210%;
     
     
 }
 header {
-    border:1px rgb(11, 45, 235) solid ;
+    border:px rgb(11, 45, 235) solid ;
     width:100%;
     height: 10%;
     
@@ -100,7 +100,7 @@ div.main-texto {
     
 }
 main {
-    border: 1px rgb(221, 12, 12) solid;
+    border: px rgb(221, 12, 12) solid;
     position: absolute;
     height: 164%;
     left: 1%;
@@ -143,7 +143,7 @@ div.obras {
     margin-left:15%;
 }
 footer {
-    border: 1px rgb(21, 194, 35) solid;
+    border: px rgb(21, 194, 35) solid;
     position:absolute;
     top: 194%;
     background-color:rgba(78, 90, 102, 0.603);
