@@ -130,6 +130,7 @@ div.accion {
     margin-left: 15%;
     background-color: rgba(0, 0, 0, 0.986);
     border-radius: 10px;
+
 }
 div.titulo-accion {
     color: red;
@@ -137,12 +138,41 @@ div.titulo-accion {
     text-decoration: dashed;
 }
 img.avengers{
-    margin:25px;
+    position: absolute;
+    margin:15px;
     width:150px;
     height: 200px;
-    margin-left: 6%;
+    margin-left: 7%;
+    display: inline-block;
+}
+img.avengers1{
+    position: absolute;
+    margin:15px;
+    width:150px;
+    height: 200px;
+    margin-left: 27%;
+    display: inline-block;
+}
+
+img.avengers2{
+    position: absolute;
+    margin:15px;
+    width:150px;
+    height: 200px;
+    margin-left: 47%;
+    display: inline-block;
+}
+
+img.avengers3{
+    position: absolute;
+    margin:15px;
+    width:150px;
+    height: 200px;
+    margin-left: 67%;
+    display: inline-block;
     
 }
+
 div.romanticas {
     border: 1px black solid;
     height: 26%;
