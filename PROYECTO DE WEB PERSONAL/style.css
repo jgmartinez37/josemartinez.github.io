@@ -90,12 +90,11 @@ nav.main{
     margin-left: 1%;
 
 }
-nav .main-texto {
-    padding-left:2px;
-    padding-right: 20px;
-    padding-top: 170px;
-    color: rgb(230, 230, 230);
-
+div.main-texto {
+    
+    padding-top: 175%;
+    color: rgb(252, 252, 252);
+    text-align: center;
     
     
 }
