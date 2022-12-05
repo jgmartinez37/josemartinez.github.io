@@ -41,7 +41,7 @@ nav.nav-alone {
     border-radius: 8px;
     height: 5%;
     width: 83%;
-    left: 16%;  
+    left: 15%;  
     box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
     border: 1px rgb(178, 18, 184) solid;
 }
@@ -61,11 +61,12 @@ div.nav-al-letras:hover{
 h1 {
     text-align: center;
     color: rgb(221, 28, 28);
-    border: 1px black solid;
+    border: 0px black solid;
     background-color: rgba(0, 0, 0, 0.904);
     clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
     width: 60%;
     margin-left: 25%;
+    
     
 }
 
@@ -81,7 +82,7 @@ nav{
     width:12% ;
     margin-left: 1%;
     float: left;
-    box-shadow: 2px 4px 10px 0 rgba(255, 0, 0, 0.37);
+    box-shadow: 2px 4px 10px 0 rgba(211, 11, 27, 0.959);
 
 }
 div.nav-texto {
@@ -111,13 +112,15 @@ div.quees {
     color: rgb(235, 232, 232);
     width: 84%;
     margin-left: 15%;
-    box-shadow: 2px 4px 10px 0 rgba(255, 255, 255, 0.925);
+    box-shadow: 2px 4px 10px 0 rgba(235, 118, 8, 0.925);
     text-align: center;
+    font-style: italic;
 }
 div.titulo-quees{
     color: red;
-    font-weight:bold;
     text-decoration: dashed;
+    font-family: fantasy;
+    
 }
 div.accion {
     border: 1px black solid;
@@ -127,6 +130,7 @@ div.accion {
     margin-left: 15%;
     background-color: rgba(0, 0, 0, 0.986);
     border-radius: 10px;
+    box-shadow: 2px 4px 10px 0 rgb(0, 124, 128);
 
 }
 div.titulo-accion {
@@ -178,6 +182,7 @@ div.romanticas {
     margin-left:15%;
     background-color: rgba(0, 0, 0, 0.986);
     border-radius: 10px;
+    box-shadow: 2px 4px 10px 0 rgb(108, 9, 238);
 }
 div.titulo-romanticas{
     color: red;
@@ -193,6 +198,7 @@ div.obras {
     margin-left:15%;
     background-color: rgba(0, 0, 0, 0.993);
     border-radius: 10px;
+    box-shadow: 2px 4px 10px 0 blue;
 }
 div.titulo-top5 {
     color: red;
