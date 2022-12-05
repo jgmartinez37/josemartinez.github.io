@@ -4,13 +4,13 @@ body {
 }
 div.container {
     border: 1px black solid;
-    width: 98%;
+    width: 99%;
     height: 210%;
     
     
 }
 header {
-    border:1px black solid ;
+    border:1px rgb(11, 45, 235) solid ;
     width: 98;
     height: 13%;
     
@@ -54,7 +54,7 @@ div.nav-head-letras{
     
 }
 div.menu-head {
-    border: px black solid;
+    border:px black solid;
     position:absolute;
     top:11%;
     width: 15%;
@@ -68,7 +68,7 @@ div.menu-head {
 
 }  
 div.menu-letra {
-    margin-top: 7px;
+    margin-top: 10px;
 }
 
 h1 {
@@ -79,7 +79,7 @@ h1 {
 
 
 nav.main{
-    border: 1px black solid;
+    border: px black solid;
     position: absolute;
     height: 98%;
     background-color: rgba(0, 0, 0, 0.5);
@@ -99,10 +99,10 @@ div.main-texto {
     
 }
 main {
-    border: 1px black solid;
+    border: 1px rgb(221, 12, 12) solid;
     position: absolute;
     height: 164%;
-    left: ;
+    left: 1%;
     width: 98%;
     top: 30%;
 
@@ -142,7 +142,7 @@ div.obras {
     margin-left:15%;
 }
 footer {
-    border: px black solid;
+    border: 1px rgb(21, 194, 35) solid;
     position:absolute;
     top: 194%;
     background-color:rgba(78, 90, 102, 0.603);
