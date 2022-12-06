@@ -43,7 +43,7 @@ main {
     border: 1px rgb(221, 12, 12) solid;
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
-    height: 80%;
+    height: 90%;
     top: 33%;
     width: 70%;
     left:15% ;
@@ -61,7 +61,7 @@ p { border: 1px blue solid;
 }
 table{
     border: 1px blue solid;
-    box-shadow: 2px 4px 10px 0 yellowgreen;
+    box-shadow: 2px 4px 10px 0 rgb(205, 50, 50);
     color: white;
 }
 td.tituloform {
