@@ -27,24 +27,24 @@
 
              <div class="formulario">
                 <form  name=datosform action=""></form>
-                <table>
+                <table align="center">
                     <tr>
-                        <td colspan="2"><center>FORMULARIO</center></td>
+                        <td class="tituloform" colspan="2"><center>FORMULARIO</center></td>
                     </tr>
                     <tr>
-                        <td>nombre: </td>
+                        <td class="contenido-letras">nombre: </td>
                         <td>
                             <input type="text" name="txtnombre"/>
                         </td>
                     </tr>
                     <tr>
-                        <td>apellidos:</td>
+                        <td class="contenido-letras">apellidos:</td>
                         <td>
                             <input type="text" name="apellidos">
                         </td>
                     </tr>
                     <tr>
-                        <td>sexo</td>
+                        <td class="contenido-letras">sexo</td>
                         <td>
                             <input type="radio" name="optionsexo" value="m">masculino
                             <input type="radio" name="optionsexo" value="f">femenino
@@ -52,7 +52,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>nivel de conocimiento</td>
+                        <td class="contenido-letras">nivel de conocimiento</td>
                         <td>
                             <input type="checkbox" name="conocimiento" value="1"/>se poco <br>
                             <input type="checkbox" name="conocimiento" value="2"/>se algo <br>
@@ -60,7 +60,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>lugar de nacimiento</td>
+                        <td class="contenido-letras">lugar de nacimiento</td>
                         <td>
                             <select name="ciudad1" id="">
                                 <option value="1">españa</option>
@@ -70,11 +70,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>foto</td>
-                        <td></td>
+                        <td class="contenido-letras">CURRICULUM</td>
+                        <td>
+                            <input type="file" name="curriculum">
+                        </td>
                     </tr>
                     <tr>
-                        <td colspan="2"><input type="submit" name="boton" value="enviar"></td>
+                        <td class="tituloform" colspan="2"><input type="submit" name="boton" value="enviar"></td>
                         <td></td>
                     </tr>
                   

@@ -63,3 +63,12 @@ table{
     box-shadow: 2px 4px 10px 0 yellowgreen;
     color: white;
 }
+td.tituloform {
+    height:60px;
+    color: red;
+    background-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+td.contenido-letras {
+    font-family: fantasy;
+}
