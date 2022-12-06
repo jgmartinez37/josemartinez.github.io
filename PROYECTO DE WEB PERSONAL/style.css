@@ -74,7 +74,7 @@ h1 {
 nav{
     border: px black solid;
     position: absolute;
-    height: 98%;
+    height: 124%;
     background-color: rgb(0, 0, 0);
     padding: 3px;
     border-radius: 10px;
@@ -86,7 +86,7 @@ nav{
 
 }
 div.nav-texto {
-    margin-top: 110%;
+    margin-top: 145%;
     color: rgb(253, 0, 0);
     text-align: center;
       
@@ -212,7 +212,7 @@ a:hover{
 footer {
     border: 1px rgb(21, 194, 35) solid;
     position:absolute;
-    top: 194%;
+    top: 240%;
     background-color:rgba(2, 2, 2, 0.986);
     margin: 6px;
     height: 70px;
