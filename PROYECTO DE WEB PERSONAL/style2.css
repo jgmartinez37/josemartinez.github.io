@@ -57,6 +57,7 @@ p { border: 1px blue solid;
     box-shadow: 2px 4px 10px 0 rgb(202, 16, 16);
     text-align: center;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 table{
     border: 1px blue solid;
@@ -64,11 +65,12 @@ table{
     color: white;
 }
 td.tituloform {
+    
     height:60px;
     color: red;
-    background-color: yellowgreen;
+    background-color: rgb(115, 185, 226);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 td.contenido-letras {
-    font-family: fantasy;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
