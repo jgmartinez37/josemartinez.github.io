@@ -43,7 +43,7 @@ main {
     border: px rgb(221, 12, 12) solid;
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
-    height: 130%;
+    height: 155%;
     top: 33%;
     width: 98%;
     left:1% ;
@@ -58,11 +58,11 @@ p { border: 1px blue solid;
     box-shadow: 2px 4px 10px 0 rgb(202, 16, 16);
     text-align: center;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 h2{
-    color: rgba(220, 20, 60, 0.788);
+    color: rgb(223, 23, 23);
 }
 
 
@@ -71,8 +71,11 @@ div.formulario{
     width: 70%;
     left: 10%;
     margin-left: 15%;
-    height:89% ;
+    height:90% ;
     text-align: center;
     border-radius: 8px;
     margin-bottom: 5% ;
+}
+div.titulo-form{
+    background-color: rgb(31, 223, 236);
 }

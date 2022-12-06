@@ -7,6 +7,7 @@
     <title>formulario</title>
     <link rel="stylesheet" href="style2.css">
     <script src="https://kit.fontawesome.com/bd9a3c0eb3.js" crossorigin="anonymous"></script>
+
 </head>
 <body>
     <div class="container">
@@ -28,16 +29,17 @@
              </p>
              <br>
              <div class="formulario">
-                <form  name=datosform action="#" autocomplete="off"></form>
+                <form  name=datosform action="ejemplo.php" autocomplete="off"></form>
                 
-                     <center><h2>FORMULARIO</h2></center>
+                     <div class="titulo-form"><center><h2>FORMULARIO</h2></center></div>
+                     <br>
                    
                      <label for="Nombre">Nombre:</label>
-                     <input type="text" name="Nombre" id="Nombre"  placeholder="Pon tu Nombre cinefilo"/>
+                     <input type="text" name="Nombre" id="Nombre"  placeholder="Pon tu Nombre cinefilo" required/>
                      <br>
                      <br>   
                      <label for="Apellidos">Apellidos:</label>
-                     <input type="text" name="Apellidos" id="Apellidos" placeholder="Pon tus apellidos">
+                     <input type="text" name="Apellidos" id="Apellidos" placeholder="Pon tus apellidos" required>
                      <br> 
                      <br>
                      <label for="">Sexo:</label>
@@ -46,15 +48,18 @@
                      <br>
                      <br>
                      <label for="lugar">Lugar de Nacimiento:</label>
-                            <select name="ciudad1" id="lugar">
-                                <option value="1">Europa</option>
-                                <option value="2">America</option>
-                                <option value="3">Asia</option>
-                            </select>
+                            <input type="checkbox" name="lugar" id="lugar" value="1[]">Asia
+                            <input type="checkbox" name="lugar" id="lugar" value="1[]">America
+                            <input type="checkbox" name="lugar" id="lugar" value="1[]">Europa
+                            <input type="checkbox" name="lugar" id="lugar" value="1[]">Africa
                     <br>
                     <br> 
                      <label for="correo">Correo electronico:</label>
-                     <input type="email" name="email" id="correo" placeholder="Pon tu correo">
+                     <input type="email" name="email" id="correo" placeholder="Pon tu correo" required>
+                    <br> 
+                    <br>  
+                    <label for="numero">Numero telefonico:</label>
+                     <input type="number" name="numero" id="numero" placeholder="+34" required>
                     <br> 
                     <br>  
                     <label for="">Conocimiento sobre Cine:</label><br>
@@ -93,6 +98,11 @@
                     <br>
                     <label for="">curriculum:</label>
                     <input type="file" name="curriculum" id="curriculum">
+                    <br>
+                    <br>
+                    <label for="datos">otros Datos:</label>
+                    <br>
+                    <textarea name="otrosdatos" id="datos" cols="25" rows="5"></textarea>
                     <br>
                     <br>
                     <label for="boton"></label>
