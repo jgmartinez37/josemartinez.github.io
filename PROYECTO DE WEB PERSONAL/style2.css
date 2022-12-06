@@ -47,6 +47,7 @@ main {
     top: 33%;
     width: 70%;
     left:15% ;
+    color: white;
     
 
     
@@ -60,5 +61,5 @@ p { border: 1px blue solid;
 table{
     border: 1px blue solid;
     box-shadow: 2px 4px 10px 0 yellowgreen;
-    
+    color: white;
 }
