@@ -8,4 +8,28 @@ body {
 }
 div.container{
     height: 100%;
+    border: 1px rgb(211, 30, 17) solid;
+    box-shadow: 2px 4px 10px 0 rgb(117, 12, 216);
+}
+hr{
+    border: 2px red solid;
+}
+header{
+    border: 1px white solid;
+}
+div.logo {
+    border: px black solid;
+    position:absolute;
+    width: 17%;
+    top:0;
+    height: 19%;
+}
+img.logo {
+    border: px black solid;
+    position:absolute;
+    height: 110%;
+    width: 80%;
+    padding: 2px;
+    border-radius: 18px;
+    top: -10px; 
 }
