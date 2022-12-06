@@ -8,10 +8,7 @@ body {
 
 }
 div.container{
-    height: 500%;
-    border: 1px rgb(211, 30, 17) solid;
-    box-shadow: 2px 4px 10px 0 rgb(117, 12, 216);
-    width: 100%;
+    
 }
 hr{
     border: 1px red solid;
@@ -19,22 +16,7 @@ hr{
 header{
     border: 1px white solid;
 }
-div.logo {
-    border: px black solid;
-    position:absolute;
-    width: 17%;
-    top:0;
-    height: 19%;
-}
-img.logo {
-    border: px black solid;
-    position:absolute;
-    height: 110%;
-    width: 80%;
-    padding: 2px;
-    border-radius: 18px;
-    top: -10px; 
-}
+
 nav.nav-alone {
     position: absolute;
     top: 22%;
@@ -60,4 +42,13 @@ div.nav-al-letras{
 } 
 div.nav-al-letras:hover{
     color: aqua;
+}
+main {
+    border: 1px rgb(221, 12, 12) solid;
+    box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
+    position: absolute;
+    height: 60%;
+    left: 1%;
+    width: 99%;
+    top: 30%;
 }
