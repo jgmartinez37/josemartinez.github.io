@@ -2,3 +2,7 @@ h1{
     color: red;
     text-align: center;
 }
+body {
+    background-color: black;
+    box-shadow: 2px 4px 10px 0 rgb(82, 22, 223);
+}
