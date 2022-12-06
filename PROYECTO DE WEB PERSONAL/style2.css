@@ -63,6 +63,7 @@ table{
     border: 1px blue solid;
     box-shadow: 2px 4px 10px 0 rgb(205, 50, 50);
     color: white;
+    width: 70%;
 }
 td.tituloform {
     
