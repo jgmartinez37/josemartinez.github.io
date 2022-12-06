@@ -14,7 +14,7 @@ div.container{
     width: 100%;
 }
 hr{
-    border: 2px red solid;
+    border: 1px red solid;
 }
 header{
     border: 1px white solid;
@@ -34,4 +34,30 @@ img.logo {
     padding: 2px;
     border-radius: 18px;
     top: -10px; 
+}
+nav.nav-alone {
+    position: absolute;
+    top: 22%;
+    background-color: rgba(0, 0, 0, 0.986);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    height: 5%;
+    width: 83%;
+    left: 15%;  
+    box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
+    border: 1px rgb(178, 18, 184) solid;
+}
+
+
+div.nav-al-letras{
+    display:inline;
+    color: rgb(226, 21, 21);
+    padding:10px;
+    text-decoration:underline;
+    padding-left: 8%;
+    
+} 
+div.nav-al-letras:hover{
+    color: aqua;
 }
