@@ -22,109 +22,85 @@
         </nav>
         
         <main>
-            <p>Este formulario tiene el objetivo de conocer un poco mas de usted y <br> saber que conocimiento tienen usted sobre el cine y la musica para  obtener la vacante de empleo.
+            <p>Este formulario tiene el objetivo de conocer un poco mas de usted y <br>
+                 saber que conocimiento tienen usted sobre el cine y la musica para  
+                 obtener la vacante de empleo.
              </p>
              <br>
              <div class="formulario">
                 <form  name=datosform action="#" autocomplete="off"></form>
-                <table align="center">
-                    <tr>
-                        <td class="tituloform" colspan="2"><center><h2>FORMULARIO</h2></center></td>
-                    </tr>
-    
-                    <tr>
-                        <td class="contenido-letras">Nombre: </td>
-                        <td>
-                            <input type="text" name="txtNombre" placeholder="Pon tu Nombre cinefilo"/>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="contenido-letras">Apellidos:</td>
-                        <td>
-                            <input type="text" name="Apellidos" placeholder="Pon tus apellidos">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="contenido-letras">Sexo:</td>
-                        <td>
-                            <input type="radio" name="optionSexo" value="m">Masculino
-                            <input type="radio" name="optionSexo" value="f">Femenino
-
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="contenido-letras">lugar de nacimiento:</td>
-                        <td>
-                            <select name="ciudad1" id="">
+                
+                     <center><h2>FORMULARIO</h2></center>
+                   
+                     <label for="Nombre">Nombre:</label>
+                     <input type="text" name="Nombre" id="Nombre"  placeholder="Pon tu Nombre cinefilo"/>
+                     <br>
+                     <br>   
+                     <label for="Apellidos">Apellidos:</label>
+                     <input type="text" name="Apellidos" id="Apellidos" placeholder="Pon tus apellidos">
+                     <br> 
+                     <br>
+                     <label for="">Sexo:</label>
+                     <input type="radio" name="optionSexo" id="Sexo" value="m">Masculino
+                     <input type="radio" name="optionSexo" id="Sexo" value="f">Femenino
+                     <br>
+                     <br>
+                     <label for="lugar">Lugar de Nacimiento:</label>
+                            <select name="ciudad1" id="lugar">
                                 <option value="1">Europa</option>
                                 <option value="2">America</option>
                                 <option value="3">Asia</option>
                             </select>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="contenido-letras">Correo electronico:</td>
-                        <td>
-                        <input type="email" name="email" placeholder="Pon tu correo">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="contenido-letras">Conocimiento sobre Cine:</td>
-                        <td>
-                            <input type="checkbox" name="conocimiento" value="1"/>Se muy poco <br>
-                            <input type="checkbox" name="conocimiento" value="2"/>Se lo normal<br>
-                            <input type="checkbox" name="conocimiento" value="3"/>Soy experto <br>
-                        </td>
-                    </tr>
+                    <br>
+                    <br> 
+                     <label for="correo">Correo electronico:</label>
+                     <input type="email" name="email" id="correo" placeholder="Pon tu correo">
+                    <br> 
+                    <br>  
+                    <label for="">Conocimiento sobre Cine:</label><br>
+                    <input type="checkbox" name="conocimiento" id="cine" value="1"/>Se muy poco <br>
+                    <input type="checkbox" name="conocimiento" id="cine" value="2"/>Se lo normal<br>
+                    <input type="checkbox" name="conocimiento" id="cine" value="3"/>Soy experto <br>
+                        
                     
-                    <tr>
-                        <td class="contenido-letras">Conocimiento sobre Musica:</td>
-                        <td>
-                            <input type="checkbox" name="conocimiento" value="1"/>Se muy poco <br>
-                            <input type="checkbox" name="conocimiento" value="2"/>Se lo normal<br>
-                            <input type="checkbox" name="conocimiento" value="3"/>Soy experto <br>
-                        </td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="contenido-letras">Que genero prefieres:</td>
-                        <td>
-                            <select name="ciudad1" id="">
-                                <option value="1">Accion</option>
-                                <option value="2">Terror</option>
-                                <option value="3">Romanticas</option>
-                                <option value="4">Comedias</option>
-                            </select>
-                        </td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="contenido-letras">Que genero prefieres:</td>
-                        <td>
-                            <select name="ciudad1" id="">
-                                <option value="1">Regaeton</option>
-                                <option value="2">pop</option>
-                                <option value="3">rock</option>
-                                <option value="4">salsa</option>
-                                <option value="5">intrumental</option>
+                    <br>
+                    <label for="">Conocimiento sobre Musica:</label><br>
+                                             
+                    <input type="checkbox" name="conocimiento" id="Musica" value="1"/>Se muy poco <br>
+                    <input type="checkbox" name="conocimiento" id="Musica" value="2"/>Se lo normal<br>
+                    <input type="checkbox" name="conocimiento" id="Musica" value="3"/>Soy experto <br>
+                            
+                    <br>
+                    <label for="genero">Que genero prefieres:</label>
+                    <select name="ciudad1" id="genero">
+                        <option value="1">Accion</option>
+                        <option value="2">Terror</option>
+                        <option value="3">Romanticas</option>
+                        <option value="4">Comedias</option>
+                    </select>
+                    <br>
+                    <br>
+                    <label for="genero1">Que genero prefieres:</label>
+                    <select name="ciudad1" id="genero1">
+                        <option value="1">Regaeton</option>
+                        <option value="2">pop</option>
+                        <option value="3">rock</option>
+                        <option value="4">salsa</option>
+                        <option value="5">intrumental</option>
 
-                            </select>
-                        </td>
-                    </tr>
+                    </select>
+                    <br>
+                    <br>
+                    <label for="">curriculum:</label>
+                    <input type="file" name="curriculum" id="curriculum">
+                    <br>
+                    <br>
+                    <label for="boton"></label>
+                    <input type="submit" name="boton" id="boton" value="Enviar"></class=>
+                        
                     
-                    <tr>
-                        <td class="contenido-letras">curriculum:</td>
-                        <td>
-                            <input type="file" name="curriculum">
-                        </td>
-                    </tr>
-                
-                    <tr>
-                        <td class="tituloform" colspan="2" align="center"><input type="submit" name="boton" value="Enviar"></td>
-                        <td></td>
-                    </tr>
                   
-                </table>
+                
 
 
              </div>

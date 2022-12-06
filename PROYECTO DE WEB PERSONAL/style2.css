@@ -43,11 +43,12 @@ main {
     border: px rgb(221, 12, 12) solid;
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
-    height: 94%;
+    height: 130%;
     top: 33%;
-    width: 70%;
-    left:15% ;
+    width: 98%;
+    left:1% ;
     color: white;
+    border-radius: 10px;
     
 
     
@@ -59,19 +60,19 @@ p { border: 1px blue solid;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-table{
-    border: px blue solid;
-    box-shadow: 2px 4px 10px 0 rgb(205, 50, 50);
-    color: white;
+
+h2{
+    color: rgba(220, 20, 60, 0.788);
+}
+
+
+div.formulario{
+    border: 1px rgb(37, 177, 196) solid;
     width: 70%;
-}
-td.tituloform {
-    
-    height:60px;
-    color: red;
-    background-color: rgb(115, 185, 226);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-td.contenido-letras {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    left: 10%;
+    margin-left: 15%;
+    height:89% ;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 5% ;
 }
