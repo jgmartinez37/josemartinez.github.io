@@ -7,7 +7,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 hr {
-    border: 1px red solid;
+    border: 1px rgb(46, 73, 197) solid;
 }
 header{
     border: px white solid;
@@ -43,7 +43,7 @@ main {
     border: px rgb(221, 12, 12) solid;
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
-    height: 90%;
+    height: 94%;
     top: 33%;
     width: 70%;
     left:15% ;
