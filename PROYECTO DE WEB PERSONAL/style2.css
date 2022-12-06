@@ -10,7 +10,7 @@ hr {
     border: 1px red solid;
 }
 header{
-    border: 1px white solid;
+    border: px white solid;
 }
 
 nav.nav-alone {
@@ -40,7 +40,7 @@ div.nav-al-letras:hover{
     color: aqua;
 }
 main {
-    border: 1px rgb(221, 12, 12) solid;
+    border: px rgb(221, 12, 12) solid;
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
     height: 90%;
@@ -60,7 +60,7 @@ p { border: 1px blue solid;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 table{
-    border: 1px blue solid;
+    border: px blue solid;
     box-shadow: 2px 4px 10px 0 rgb(205, 50, 50);
     color: white;
     width: 70%;
