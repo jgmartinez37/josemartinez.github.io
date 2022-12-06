@@ -26,7 +26,7 @@ nav.nav-alone {
     border-radius: 8px;
     height: 5%;
     width: 83%;
-    left: 15%;  
+    left: 8%;  
     box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
     border: 1px rgb(178, 18, 184) solid;
 }
@@ -37,7 +37,7 @@ div.nav-al-letras{
     color: rgb(226, 21, 21);
     padding:10px;
     text-decoration:underline;
-    padding-left: 8%;
+    padding-left: 12%;
     
 } 
 div.nav-al-letras:hover{
@@ -48,7 +48,7 @@ main {
     box-shadow: 2px 4px 10px 0 rgb(76, 12, 196);
     position: absolute;
     height: 60%;
-    left: 1%;
-    width: 99%;
     top: 30%;
+    width: 99%;
+    right: 1%;
 }
