@@ -56,3 +56,11 @@ div.nav-al-letras{
 div.nav-al-letras:hover{
     color: aqua;
 }
+table.arriba{
+    width: 100%;
+    height: 30%;
+    border: 1px black solid;
+}
+td, th, tr {
+    border: 1px black solid;
+}
