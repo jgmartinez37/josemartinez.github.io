@@ -3,7 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 hr{
-    border: 1px rgb(6, 6, 19) solid;
+    border: 1px rgba(37, 37, 54, 0.651) solid;
     width: 90%;
 }
 p{
@@ -12,20 +12,20 @@ p{
 
 div.container{
     position: absolute;
-    height:150%;
+    height:180%;
     width: 98%;
     left: 1%;
     border: 1px rgb(17, 212, 50) solid;
 }
 header{
-    border: 1px rgb(240, 24, 24) solid;
+    border: px rgb(240, 24, 24) solid;
 
 }
 main{
     background-color:rgba(255, 255, 255, 0.904);
     border: 1px blue solid;
     position: absolute;
-    height: 72%;
+    height: 92%;
     left: 15%;
     width: 70%;
     top: 25%;
