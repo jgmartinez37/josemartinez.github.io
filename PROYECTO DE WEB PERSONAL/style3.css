@@ -1,0 +1,54 @@
+body{
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    border: 1px blue solid;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+div.container{
+    position: absolute;
+    height:100%;
+    border: 1px rgb(17, 212, 50) solid;
+}
+header{
+    border: 1px rgb(240, 24, 24) solid;
+
+}
+main{
+    border: 1px blue solid;
+    position: absolute;
+    height: 94%;
+    left: 1%;
+    width: 98%;
+    top: 30%;
+}
+nav.nav-alone {
+    position: absolute;
+    top: 22%;
+    background-color: rgba(0, 0, 0, 0.986);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    height: 5%;
+    width: 83%;
+    left: 8%;  
+    box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
+    border: 1px rgb(178, 18, 184) solid;
+}
+
+
+div.nav-al-letras{
+    display:inline;
+    color: rgb(226, 21, 21);
+    padding:10px;
+    text-decoration:underline;
+    padding-left: 12%;
+    
+} 
+div.nav-al-letras:hover{
+    color: aqua;
+}
