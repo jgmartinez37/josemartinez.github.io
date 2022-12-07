@@ -54,7 +54,7 @@ div.nav-al-letras{
     color: rgb(226, 21, 21);
     padding:10px;
     text-decoration:underline;
-    padding-left: 13%;
+    padding-left: 10%;
     
 } 
 div.nav-al-letras:hover{
@@ -88,7 +88,7 @@ nav{
 
 }
 div.nav-texto {
-    margin-top: 163%;
+    margin-top: 160%;
     color: rgb(253, 0, 0);
     text-align: center;
       
