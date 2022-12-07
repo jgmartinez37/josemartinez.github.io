@@ -3,7 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 hr{
-    border: 1px blue solid;
+    border: 1px rgb(6, 6, 19) solid;
     width: 90%;
 }
 p{
