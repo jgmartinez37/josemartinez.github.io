@@ -6,10 +6,7 @@ hr{
     border: 1px blue solid;
     width: 90%;
 }
-h1{
-    color: red;
-    text-align: center;
-}
+
 div.container{
     position: absolute;
     height:150%;
@@ -58,9 +55,23 @@ div.nav-al-letras:hover{
 }
 table.arriba{
     width: 100%;
-    height: 30%;
+    height: 25%;
     border: 1px black solid;
+    background-color: rgba(43, 40, 40, 0.842);
+    
+}
+h1.curri{
+    text-align: center;
+    color: red;
 }
 td, th, tr {
-    border: 1px black solid;
+    border: 1px rgb(247, 238, 238) solid;
+}
+h1.tit-up{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h2.tit-ac{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
