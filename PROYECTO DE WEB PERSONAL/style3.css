@@ -12,7 +12,7 @@ p{
 
 div.container{
     position: absolute;
-    height:180%;
+    height:240%;
     width: 98%;
     left: 1%;
     border: 1px rgb(17, 212, 50) solid;
@@ -29,6 +29,7 @@ main{
     left: 15%;
     width: 70%;
     top: 25%;
+    border-radius: 9px;
 }
 nav.nav-alone {
     position: absolute;
