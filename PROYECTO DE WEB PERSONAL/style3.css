@@ -65,7 +65,7 @@ h1.curri{
     color: red;
 }
 td, th, tr {
-    border: 1px rgb(247, 238, 238) solid;
+    border: px rgb(247, 238, 238) solid;
 }
 h1.tit-up{
     color: white;
@@ -77,5 +77,6 @@ img.keanu{
  width: 35%;
  height: 20%;
 border-radius: 8px;
-margin-left:50%;
+margin-left:30%;
+clip-path: circle(50% at 50% 50%);
 }
