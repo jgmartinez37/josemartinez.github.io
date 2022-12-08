@@ -1,5 +1,5 @@
 h1{
-    color: rgb(212, 52, 52);
+    color: rgb(214, 29, 29);
     text-align: center;
 }
 body {
@@ -8,6 +8,8 @@ body {
 }
 hr {
     border: 1px rgb(225, 226, 231) solid;
+    width:80%;
+    left: 10%;
 }
 
 div.container {
@@ -64,6 +66,7 @@ main {
     
 }
 p { border: px blue solid;
+    font-weight: bold;
     border-radius: 7px;
     box-shadow: px 4px 10px 0 rgb(202, 16, 16);
     text-align: center;
