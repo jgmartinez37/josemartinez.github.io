@@ -9,6 +9,13 @@ body {
 hr {
     border: 1px rgb(46, 73, 197) solid;
 }
+div.container {
+position: absolute;
+height: 80%;
+border: px slateblue solid;
+width: 98%;
+left: 1%;
+}
 header{
     border: px white solid;
 }
@@ -71,7 +78,7 @@ div.formulario{
     width: 70%;
     left: 10%;
     margin-left: 15%;
-    height:90% ;
+    height:110% ;
     text-align: center;
     border-radius: 8px;
     margin-bottom: 5% ;
