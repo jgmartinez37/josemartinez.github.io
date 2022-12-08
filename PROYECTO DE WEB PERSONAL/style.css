@@ -98,11 +98,11 @@ div.quees {
     height: 20%;
     margin:2px ;
     border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.986);
+    background-color: rgba(49, 48, 48, 0.986);
     color: rgb(235, 232, 232);
     width: 84%;
     margin-left: 15%;
-    box-shadow: 2px 4px 10px 0 rgba(235, 118, 8, 0.925);
+    box-shadow: 2px 4px 10px 0 rgba(0, 124, 128);
     text-align: center;
     font-style: italic;
 }
@@ -118,7 +118,7 @@ div.accion {
     margin: 2px;
     width: 84%;
     margin-left: 15%;
-    background-color: rgba(0, 0, 0, 0.986);
+    background-color: rgba(49, 48, 48, 0.986);
     border-radius: 10px;
     box-shadow: 2px 4px 10px 0 rgb(0, 124, 128);
 
@@ -170,9 +170,9 @@ div.romanticas {
     margin: 2px;
     width: 84%;
     margin-left:15%;
-    background-color: rgba(0, 0, 0, 0.986);
+    background-color: rgba(49, 48, 48, 0.986);
     border-radius: 10px;
-    box-shadow: 2px 4px 10px 0 rgb(108, 9, 238);
+    box-shadow: 2px 4px 10px 0 rgb(0, 124, 128);
 }
 div.titulo-romanticas{
     color: red;
@@ -186,9 +186,9 @@ div.obras {
     margin: 2px;
     width: 84%;
     margin-left:15%;
-    background-color: rgba(0, 0, 0, 0.993);
+    background-color: rgba(49, 48, 48, 0.986);
     border-radius: 10px;
-    box-shadow: 2px 4px 10px 0 blue;
+    box-shadow: 2px 4px 10px 0 rgb(0, 124, 128);
 }
 div.titulo-top5 {
     color: red;
@@ -203,7 +203,7 @@ footer {
     border: 1px rgb(21, 194, 35) solid;
     position:absolute;
     top: 240%;
-    background-color:rgba(2, 2, 2, 0.986);
+    background-color:rgba(26, 25, 25, 0.986);
     margin: 6px;
     height: 70px;
     text-align: center;
