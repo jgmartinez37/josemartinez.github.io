@@ -1,5 +1,5 @@
 h1{
-    color: red;
+    color: rgb(206, 58, 58);
     text-align: center;
 }
 body {
@@ -85,6 +85,7 @@ div.formulario{
     text-align: center;
     border-radius: 8px;
     margin-bottom: 5% ;
+    background-color: rgb(59, 57, 57);
 }
 div.titulo-form{
     background-color: rgb(11, 12, 12);
