@@ -1,0 +1,70 @@
+body{
+    background-color: darkgrey;
+
+}
+div.container{
+    border: 1px rgb(20, 207, 83) solid;
+    position: absolute;
+    height: 120%;
+    width: 98%;
+    left: 1%;
+    
+
+}
+section{
+    background-color: rgba(214, 154, 133, 0.774);
+    position: absolute;
+    border: 1px blue solid;
+    height:80% ;
+    width: 50%;
+    top: 30%;
+    width: 98%;
+    left: 1%;
+    border-radius: 8px;
+
+}
+table{
+    border: 1px red solid;
+    height: 80%;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 8px;
+    background-color: rgba(127, 255, 212, 0.644);
+
+}
+td, tr{
+    border: 1px black solid;
+}
+
+header{
+    border: 1px black solid;
+}
+nav.nav-alone {
+    position: absolute;
+    top: 17%;
+    background-color: rgba(0, 0, 0, 0.986);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    height: 5%;
+    width: 83%;
+    left: 8%;  
+    box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
+    border: 1px rgb(178, 18, 184) solid;
+}
+h1.curri{
+    color: rgb(226, 30, 30);
+}
+
+
+div.nav-al-letras{
+    display:inline;
+    color: rgb(226, 21, 21);
+    padding:10px;
+    text-decoration:underline;
+    padding-left: 12%;
+    
+} 
+div.nav-al-letras:hover{
+    color: aqua;
+}
