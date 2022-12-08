@@ -109,4 +109,5 @@ td.perfil{
 }
 video {
     box-shadow: 2px 4px 10px 0 rgb(165, 105, 105);
+    border-radius: 8px;
 }
