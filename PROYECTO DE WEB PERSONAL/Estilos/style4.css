@@ -3,7 +3,7 @@ body{
 
 }
 div.container{
-    border: 1px rgb(20, 207, 83) solid;
+    border: px rgb(20, 207, 83) solid;
     position: absolute;
     height: 120%;
     width: 98%;
@@ -30,7 +30,8 @@ table{
     margin-top: 2%;
     margin-left: 5%;
     border-radius: 8px;
-    background-color: rgba(127, 255, 212, 0.644);
+    background-color: darkgrey;
+    box-shadow: 2px 4px 10px 0 red;
 
 }
 td, tr{
@@ -38,7 +39,7 @@ td, tr{
 }
 
 header{
-    border: 1px black solid;
+    border: px black solid;
 }
 nav.nav-alone {
     position: absolute;
