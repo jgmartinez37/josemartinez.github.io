@@ -76,15 +76,15 @@ h1.tit-up{
     color: white;
 }
 h2.tit-ac{
-color: white;
+    color: white;
 }
 img.keanu{
     border: 1px white solid;
- width: 35%;
- height: 20%;
-border-radius: 8px;
-margin-left:30%;
-clip-path: circle(50% at 50% 50%);
+    width: 35%;
+    height: 20%;
+    border-radius: 8px;
+    margin-left:30%;
+    clip-path: circle(50% at 50% 50%);
 }
 table.medio{
     border: 1px black solid;
