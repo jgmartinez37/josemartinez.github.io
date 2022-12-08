@@ -7,8 +7,9 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 hr {
-    border: 1px rgb(46, 73, 197) solid;
+    border: 1px rgb(225, 226, 231) solid;
 }
+
 div.container {
 position: absolute;
 height: 80%;
@@ -16,6 +17,7 @@ border: px slateblue solid;
 width: 98%;
 left: 1%;
 }
+
 header{
     border: px white solid;
 }
@@ -56,6 +58,7 @@ main {
     left:1% ;
     color: white;
     border-radius: 10px;
+    
     
 
     
