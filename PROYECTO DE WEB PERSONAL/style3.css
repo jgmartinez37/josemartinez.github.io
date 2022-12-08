@@ -15,7 +15,7 @@ div.container{
     height:180%;
     width: 98%;
     left: 1%;
-    border: 1px rgb(17, 212, 50) solid;
+    border: px rgb(17, 212, 50) solid;
 }
 header{
     border: px rgb(240, 24, 24) solid;
@@ -23,7 +23,7 @@ header{
 }
 main{
     background-color:rgba(255, 255, 255, 0.904);
-    border: 1px blue solid;
+    border: px blue solid;
     position: absolute;
     height: 92%;
     left: 15%;
@@ -70,7 +70,7 @@ h1.curri{
     color: red;
 }
 td, th, tr {
-    border: 1px rgb(247, 238, 238) solid;
+    border: px rgb(247, 238, 238) solid;
 }
 h1.tit-up{
     color: white;
