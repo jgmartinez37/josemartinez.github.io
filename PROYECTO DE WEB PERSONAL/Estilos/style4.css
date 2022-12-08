@@ -70,3 +70,6 @@ div.nav-al-letras{
 div.nav-al-letras:hover{
     color: aqua;
 }
+a[href*="madrid"] {
+  font-family: cursive;
+}
