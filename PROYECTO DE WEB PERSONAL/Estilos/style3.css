@@ -23,7 +23,7 @@ header{
 }
 main{
     background-color:rgba(255, 255, 255, 0.904);
-    border: 0px blue solid;
+    border: 0px rgb(0, 0, 255) solid;
     position: absolute;
     height: 92%;
     left: 15%;
@@ -42,7 +42,7 @@ nav.nav-alone {
     width: 83%;
     left: 8%;  
     box-shadow: 2px 4px 10px 0 rgb(199, 19, 34);
-    border: 1px rgb(178, 18, 184) solid;
+    border: 0px rgb(178, 18, 184) solid;
 }
 
 
