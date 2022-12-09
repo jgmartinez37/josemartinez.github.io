@@ -5,23 +5,23 @@ body {
 }
 div.container {
     position: absolute;
-    border: px black solid;
+    border: 0px black solid;
     width: 98%;
     left: 1%;
     height: 110%;}
 header {
-    border:px rgb(11, 45, 235) solid ;
+    border:0px rgb(11, 45, 235) solid ;
     width:100%;
     height: 9%;}
 div.logo {
-    border: px black solid;
+    border: 0px black solid;
     position:absolute;
     width: 17%;
     top:0;
     height: 19%;
 }
 img.logo {
-    border: px black solid;
+    border: 0px black solid;
     position:absolute;
     height: 110%;
     width: 80%;
@@ -69,7 +69,7 @@ h1 {
 
 
 nav {
-    border: px black solid;
+    border: 0px black solid;
     position: absolute;
     height: 124%;
     background-color: rgb(0, 0, 0);
@@ -90,7 +90,7 @@ div.nav-texto {
 }
 
 main {
-    border: px rgb(221, 12, 12) solid;
+    border: 0px rgb(221, 12, 12) solid;
     position: absolute;
     height: 164%;
     left: 1%;
