@@ -65,6 +65,11 @@ table.arriba{
     border-radius: 8px;
     
 }
+#desc{
+    list-style-type:none
+}
+
+
 #curri{
     text-align: center;
     color: rgb(226, 32, 32);
@@ -111,4 +116,13 @@ td.perfil{
 video {
     box-shadow: 2px 4px 10px 0 rgb(165, 105, 105);
     border-radius: 8px;
+    height: 22%;
+    width: 40%;
+    position: absolute;
+    left: 30%;
+
+    
+}
+h4{
+    text-align: center;
 }
