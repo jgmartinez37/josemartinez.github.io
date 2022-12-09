@@ -15,15 +15,15 @@ div.container{
     height:180%;
     width: 98%;
     left: 1%;
-    border: px rgb(17, 212, 50) solid;
+    border: 0px rgb(17, 212, 50) solid;
 }
 header{
-    border: px rgb(240, 24, 24) solid;
+    border: 0px rgb(240, 24, 24) solid;
 
 }
 main{
     background-color:rgba(255, 255, 255, 0.904);
-    border: px blue solid;
+    border: 0px blue solid;
     position: absolute;
     height: 92%;
     left: 15%;
