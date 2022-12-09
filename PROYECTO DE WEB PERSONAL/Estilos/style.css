@@ -114,6 +114,7 @@ div.titulo-quees{
     color: red;
     text-decoration: dashed;
     font-family: fantasy;
+    text-align: center;
     
 }
 div.accion {
@@ -131,6 +132,7 @@ div.titulo-accion {
     color: red;
     font-weight:bold;
     text-decoration: dashed;
+    text-align: center;
 }
 img.avengers{
     position: absolute;
@@ -182,6 +184,7 @@ div.titulo-romanticas{
     color: red;
     font-weight:bold;
     text-decoration: dashed;
+    text-align: center;
 
 }
 div.obras {
@@ -198,6 +201,7 @@ div.titulo-top5 {
     color: red;
     font-weight:bold;
     text-decoration: dashed;
+    text-align: center;
 
 }
 a:hover{
